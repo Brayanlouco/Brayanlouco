@@ -1,16 +1,15 @@
-## Hi there 👋
+### Brayan prazer em conhece-los e bem vindo ao meu perfil 
 
-<!--
-**Brayanlouco/Brayanlouco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é brayan santos 
 
-Here are some ideas to get you started:
+- Estudo no colégio sou o melhor de bola
+- Estou estudando no alura
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### VOCE PODE ENTRAR EM CONTATO COMIGO 📧
+
+brayanguimaraes908@gmail.com 
+
+@brayan_santoz
+
+![_](
